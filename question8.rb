@@ -1,4 +1,4 @@
-require './helperMethods.rb'
+require './question7.rb'
 module Blog
 
   class Article
